@@ -1,0 +1,19 @@
+path: /home/patte591/new-4061/projects/project2
+number of entries: 17
+   Makefile
+   backup_shell.c
+   broken_shell.c
+   cd
+   cd.c
+   ls
+   ls.c
+   out.txt
+   shell
+   shell.c
+   shell.c~
+   testwc.txt
+   util.c
+   util.h
+   util.o
+   wc
+   wc.c
